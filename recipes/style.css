@@ -1,4 +1,13 @@
 body{
-    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    font-family: Verdana, 'Geneva', Tahoma;
     background-color: brown;
+}
+
+.description{
+    color: bisque;
+}
+
+.para{
+    color: rgb(230, 142, 156);
+    text-align: center;
 }
